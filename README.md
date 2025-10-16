@@ -1,6 +1,6 @@
 # ESTUFA
 
-é basicamente a mesma estufa que a outra mas com o diferencial de ter um banco de dados que salva tudo mesmo apos reiniciar o projeto
+é basicamente a mesma estufa que a outra mas com o diferencial de ter um banco de dados que salva tudo mesmo apos reiniciar o projeto e tambem adaptado para os topicos pedidos
 
 # Como funciona o sistema?
 
